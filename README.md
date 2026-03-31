@@ -21,4 +21,5 @@
 - Custom X-axis range
 - Supports expressions like:
    - sin(x)
+   - cos(x)
    - log(x)
